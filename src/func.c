@@ -1,4 +1,4 @@
-#incldue "../include/header.h"
+#include "../include/header.h"
 #include <math.h>
 
 double f(double x){
