@@ -1,7 +1,6 @@
-#include <math.h>
+#ifndef _HEADER_H
+#define _HEADER_H
 
-double f(double x){
-	return sin(x);
-}
+double f(double x);
 
-
+#endif
